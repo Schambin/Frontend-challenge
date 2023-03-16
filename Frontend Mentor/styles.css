@@ -1,0 +1,31 @@
+body{
+    position: absolute;
+    left: 40%;
+    top: 30%;
+    background-color: #d5e1ef;
+}
+img{
+    width: 175px;
+    height: 150px;
+    padding: 15px;
+    border-radius: 25px;
+}
+div#box{
+    display: grid;
+    place-items: center;
+    position: relative;
+    text-align: center;
+    font-family: sans-serif;
+    width: 250px;
+    height: 350px;
+    background-color: white;
+    border-radius: 20px;
+}
+div#text{
+    padding: 10px;
+    font-size: small;
+    color: gray;
+}
+div#references{
+    font-size: xx-small
+}
